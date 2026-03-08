@@ -8,7 +8,7 @@ import type { IconType } from "react-icons";
 const contactLinks: { icon: IconType; label: string; href: string }[] = [
   { icon: MdEmail,    label: "itopa1199@gmail.com",  href: "mailto:itopa1199@gmail.com" },
   { icon: SiWhatsapp, label: "WhatsApp",              href: "https://wa.me/+23490560038639" },
-  { icon: SiX,        label: "@ahmad07956",           href: "https://twitter.com/ahmad07956" },
+  { icon: SiX,        label: "@n0mad00",           href: "https://twitter.com/n0mad00" },
   { icon: SiInstagram,label: "@ahmad__muneer__",      href: "https://www.instagram.com/ahmad__muneer__/" },
 ];
 
